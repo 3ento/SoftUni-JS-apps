@@ -1,0 +1,4 @@
+run "node server.js" the normal way first
+then run "npm run start" in the package.json file
+
+if all fails, cry and try again
